@@ -3,8 +3,7 @@
 ---
 
 ## Общая информация
-> Проект выполнен составом команды `AAA IT`:\
-> \
+> Проект выполнен составом команды `AAA IT`:
 1. `Andrei Donskoi` <donskoi.com@gmail.com>\
 2. `Artem Medvedev` <artiebears@mail.ru>\
 3. `Ali Ramazanov` <ali_ramazanov_2000@mail.ru>\
