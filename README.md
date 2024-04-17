@@ -2,6 +2,17 @@
 
 ---
 
+## Общая информация
+> Проект выполнен составом команды `AAA IT`:\
+> \
+1. `Andrei Donskoi` <donskoi.com@gmail.com>\
+2. `Artem Medvedev` <artiebears@mail.ru>\
+3. `Ali Ramazanov` <ali_ramazanov_2000@mail.ru>\
+4. `Ivan Butakov` <vanessbut@yandex.ru>\
+5. `Timofei Shshudro` <t.shshudro@alumni.nsu.ru>
+
+<details>
+    <summary>Описание проекта, актуальность и проблематика</summary>
 
 ### Локальный запуск
 1. Создать .env.local файл по аналогии с предложенным в папке `semantic/frontend/.env-sample`
