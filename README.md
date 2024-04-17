@@ -1,6 +1,8 @@
 ## Semantic classification
 
 ---
+Deploy:
+[GitHub Pages](https://artiebears13.github.io/Semantic_Classification/)
 
 ## Общая информация
 > Проект выполнен составом команды `AAA IT`:
